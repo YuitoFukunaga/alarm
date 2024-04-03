@@ -1,0 +1,11 @@
+C:\Users\YuitoFukunaga\Desktop\alarm_rb\alarm_rb\alarm_rb\bin\Debug\alarm_rb.exe.config
+C:\Users\YuitoFukunaga\Desktop\alarm_rb\alarm_rb\alarm_rb\bin\Debug\alarm_rb.exe
+C:\Users\YuitoFukunaga\Desktop\alarm_rb\alarm_rb\alarm_rb\bin\Debug\alarm_rb.pdb
+C:\Users\YuitoFukunaga\Desktop\alarm_rb\alarm_rb\alarm_rb\obj\Debug\alarm_rb.csproj.AssemblyReference.cache
+C:\Users\YuitoFukunaga\Desktop\alarm_rb\alarm_rb\alarm_rb\obj\Debug\alarm_rb.csproj.SuggestedBindingRedirects.cache
+C:\Users\YuitoFukunaga\Desktop\alarm_rb\alarm_rb\alarm_rb\obj\Debug\alarm_rb.Form1.resources
+C:\Users\YuitoFukunaga\Desktop\alarm_rb\alarm_rb\alarm_rb\obj\Debug\alarm_rb.Properties.Resources.resources
+C:\Users\YuitoFukunaga\Desktop\alarm_rb\alarm_rb\alarm_rb\obj\Debug\alarm_rb.csproj.GenerateResource.cache
+C:\Users\YuitoFukunaga\Desktop\alarm_rb\alarm_rb\alarm_rb\obj\Debug\alarm_rb.csproj.CoreCompileInputs.cache
+C:\Users\YuitoFukunaga\Desktop\alarm_rb\alarm_rb\alarm_rb\obj\Debug\alarm_rb.exe
+C:\Users\YuitoFukunaga\Desktop\alarm_rb\alarm_rb\alarm_rb\obj\Debug\alarm_rb.pdb
